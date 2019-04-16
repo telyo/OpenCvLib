@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.telyo.cvlib" >
+    <application>
+        <activity android:name="com.telyo.cvlib.imggeter.CameraActivity"/>
+    </application>
+</manifest>
